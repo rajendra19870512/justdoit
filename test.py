@@ -9,10 +9,17 @@ print("This is not a program")
 
 print("This is latest main commit")
 
+<<<<<<< HEAD
 
 print("This has to be the main main latest taask")
 =======
 
 
 print("This only is in Dev")
+>>>>>>> dev
+=======
+print("This only is in Dev")
+
+
+print("FFFFFAFADF")
 >>>>>>> dev
